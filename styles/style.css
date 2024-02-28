@@ -1,0 +1,51 @@
+html{
+	background-color: black;
+	font-size: 10px;
+	font-optical-sizing: auto;
+	font-weight: 400;
+	font-style: normal;
+}
+
+body{
+	margin: 0;
+	padding: 0 20px 20px 20px;
+	border: 5px solid #0C5955
+}
+
+h1 {
+	font-family: "Great Vibes", cursive;
+	font-size: 60px;
+	text-align: center;
+	color: #FFFFFF;
+}
+
+h2{
+	font-family: "Great Vibes", cursive;
+	font-size: 40px;
+	text-align: center;
+	color: #FFFFFF;
+}
+
+p,
+li {
+	font-size: 16px;
+	line-height: 2;
+	letter-spacing: 1px;
+	color: #FFFFFF;
+}
+
+img{
+	width: 400px;
+	height: auto;
+	margin: 0 auto;
+	border: 1px solid #0C5955;
+}
+
+.image{
+	font-family: "Great Vibes", cursive;
+	text-align: center;
+}
+
+a{
+	color: #3B9EDC;
+}
